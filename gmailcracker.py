@@ -4,6 +4,8 @@
 # To Make This Cracker Work 100% , you need to install Mechanize Python Module
 # Link Download ===> https://pypi.python.org/pypi/mechanize/
 # If you need a Good Wordlist
+#my gmail==>salio.blue@gmail.com or sali_blue@yahoo.com
+
  
 import sys, imaplib, time
 from imaplib import IMAP4
