@@ -1,3 +1,4 @@
+edit by mohammad ramezani in sabzevar city
 # gmailcracker.py
 useful python scripts for you visit me in :)
 
