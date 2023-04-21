@@ -1,4 +1,4 @@
-edit by mohammad ramezani in sabzevar city
+Coded Seyed ali Mohtarami
 # gmailcracker.py
 useful python scripts for you visit me in :)
 
